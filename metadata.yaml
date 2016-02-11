@@ -1,0 +1,32 @@
+_repo: Syyn-sovitus-Murhenaytelma-yhdessa-naytoksessa_49536
+contributor:
+  translator:
+    agent_name: Krohn, Julius
+    aliases:
+    - Krohn, J. (Julius)
+    - Krohn, Julius Leopold Fredrik
+    - Suonio
+    - Krohn, Gyula
+    birthdate: 1835
+    deathdate: 1888
+    gutenberg_agent_id: '4607'
+    url: http://www.gutenberg.org/2009/agents/4607
+    wikipedia: http://fi.wikipedia.org/wiki/Julius_Krohn
+creator:
+  author:
+    agent_name: Körner, Theodor
+    gutenberg_agent_id: '45384'
+    url: http://www.gutenberg.org/2009/agents/45384
+description: ''
+gutenberg_issued: '2015-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49536'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'Syyn sovitus
+
+  Murhenäytelmä yhdessä näytöksessä'
+url: http://www.gutenberg.org/ebooks/49536
