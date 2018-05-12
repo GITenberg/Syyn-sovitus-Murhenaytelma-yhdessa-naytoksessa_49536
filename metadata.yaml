@@ -1,4 +1,5 @@
 _repo: Syyn-sovitus-Murhenaytelma-yhdessa-naytoksessa_49536
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Krohn, Julius
@@ -12,12 +13,17 @@ contributor:
     gutenberg_agent_id: '4607'
     url: http://www.gutenberg.org/2009/agents/4607
     wikipedia: http://fi.wikipedia.org/wiki/Julius_Krohn
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Körner, Theodor
     gutenberg_agent_id: '45384'
     url: http://www.gutenberg.org/2009/agents/45384
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49536#Syyn-sovitus-Murhenaytelma-yhdessa-naytoksessa
 gutenberg_issued: '2015-07-28'
 gutenberg_type: Text
 identifiers:
